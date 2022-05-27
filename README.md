@@ -1,3 +1,5 @@
+![PyPI](https://img.shields.io/pypi/v/virtue-git) ![PyPI - License](https://img.shields.io/pypi/l/virtue-git)
+
 # Demo
 [![asciicast](https://asciinema.org/a/497694.svg)](https://asciinema.org/a/497694)
 
