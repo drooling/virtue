@@ -98,5 +98,3 @@ async def core():
 
 def main():
 	trio.run(core)
-
-main()
