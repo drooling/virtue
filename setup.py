@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name = 'virtue-git',
-    version = '1.3.1',
+    version = '1.3.2',
     description = 'Gather information about a GitHub account',
     author = 'Surtains',
     author_email = "surtains@riseup.net",
